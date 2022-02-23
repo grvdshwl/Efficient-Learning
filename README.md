@@ -27,7 +27,42 @@ This repo contains notes for efficient learning methods.
    3. Start small
 
   
-  ###  
+  ###  Active Learning vs Passive Learning
+       
+       Always practice what you learn.
+       Recalling  is better than re-reading.
+       
+       Coding Learning methods.
+       
+       Watch Youtube Videos and tutorail -> Ok.
+       Read and understand from  official documetation -> Good
+       Follow along and code. -> Better.
+       Build project on your own and apply concepts yourself -> Best
+       
+  ### Intrinsic Motivation is better than extrensic motivation in the long run to become masters.
+  
+     1. Autonomy -> to have control of our life and work
+     2. Mastery 
+     3. Purpose
+     
+  ###  Smalls steps in long run to reach our goal.
+  
+  
+  
+     
+     
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+  
+       
   
   
       

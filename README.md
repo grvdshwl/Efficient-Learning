@@ -16,6 +16,11 @@ This repo contains notes for efficient learning methods.
       
       Technique : Pomodoro technique i.e. takes small breaks b/w learning sessions.
       
+  ### Brain is a muscle and requires training with repetition.
+  
+  ###
+  
+      
       
       
       

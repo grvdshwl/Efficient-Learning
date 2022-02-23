@@ -18,7 +18,17 @@ This repo contains notes for efficient learning methods.
       
   ### Brain is a muscle and requires training with repetition.
   
-  ###
+  ### Postive Feedback is better at beggining however in the long negative feedback is important as it helps in determining the areas to improve.
+  
+  ### Procrastination is the problem of emotion management rather than time management ,to aviod procratination being in a good mood is important.
+  Tricks to avoid procrastination.
+   1. Screw it, let's do it
+   2. Start sloppy
+   3. Start small
+
+  
+  ###  
+  
   
       
       

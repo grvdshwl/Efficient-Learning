@@ -14,7 +14,11 @@ This repo contains notes for efficient learning methods.
       According to a research by Barbara okaley, professer at Oakford university, we learn better when we do back and forth b/w focus and diffuse mode as our neuron connections 
       for that particular topic becomes stronger after each transition.
       
-      #### Technique : Pomodoro technique.
+      #### Technique : Pomodoro technique i.e. takes small breaks b/w learning sessions.
+      
+      
+      
+      
       
       
  

@@ -65,7 +65,30 @@ This repo contains notes for efficient learning methods.
   ###  Be Bored to activate diffuse mode of thinking.
   
   
-  
+## Techniques for Learning
+
+   ### Pomodoro Technique
+       25 minutes on, 5 minutes off.
+   
+   ### Chunk the subject
+       divide and conquer
+       break the complex problem into small chunks and solve it invidually.
+       
+   ### Spaced Repetition
+       
+       Learn the information and recall the information  and use it.
+       
+       Learn first day -> revise second day -> teach third day -> test fourth day
+       
+       
+       
+       
+       
+       
+       
+   
+   
+   
   
   
      

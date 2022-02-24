@@ -47,6 +47,25 @@ This repo contains notes for efficient learning methods.
      
   ###  Smalls steps in long run to reach our goal.
   
+  ### Being Busy shows lack of time management and is not a good thing to be a better learner always take breaks.
+  
+  ### Deliberate Practice :-
+      1.Undistracted sessions of practice.
+      2. Push yourself at the edge of your ability i.e. switch b/w discomfort and comfort zone.
+      3. Immediate Feedback
+      
+   ### Spaced Repetition.
+   
+  ### Be Creative and Adventoruos - Avoid Monotony.
+  
+  ### Have a end point .
+      
+      Figure out your productivity hours and plan your finishing time.
+      
+  ###  Be Bored to activate diffuse mode of thinking.
+  
+  
+  
   
   
      

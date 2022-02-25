@@ -118,7 +118,7 @@ This repo contains notes for efficient learning methods.
        More the senses,more the involvement, && more the learning.
        
        
-   ###     
+   ### 
         
        
        

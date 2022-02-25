@@ -80,7 +80,46 @@ This repo contains notes for efficient learning methods.
        
        Learn first day -> revise second day -> teach third day -> test fourth day
        
+   ### Delibrate Practice
        
+       Avoid the easy and try to do the things which are challenging enough to keep your moviated 
+       
+       Always try to push yourself one step further little by little.
+       
+   ### Create a roadmap to reach your goal.
+   
+   
+   ###  Interleaving
+        Learn from different sources and Techniques
+        
+        Try to use different ways to solve one problem.
+        
+   ###  Einstellung
+        Rigid Mindset is bad for learning.
+        Open to learn New things as things are changing always.
+        Have a different point of view.
+        what is option c?
+   
+   
+   ### Community is important for learning
+   
+   ### Habits are energy savers
+       
+       don't break the change
+       make small habits to get started.
+       
+       
+  ### System vs Goals
+  
+  
+  ### The Power of senses
+       try to use all the senses while learning.
+       
+       More the senses,more the involvement, && more the learning.
+       
+       
+   ###     
+        
        
        
        

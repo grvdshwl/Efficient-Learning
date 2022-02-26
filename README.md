@@ -118,9 +118,29 @@ This repo contains notes for efficient learning methods.
        More the senses,more the involvement, && more the learning.
        
        
-   ### 
-        
+  ### Method of Loci
+       Memory palace
        
+       
+   
+        
+  ### Pareto Principle
+  
+    Find 20% which will result in 80% of the results for maximum efficiency.
+    
+  ### Parkinson's Law
+      Deadline or timelines for small goals.
+   
+  ### Deep Work
+      1. select a location for deep work
+      2. endTime for deepwork for today.
+      3. make sure you are powered up.
+      
+  ### Small Rewards
+  
+  ### Concepts vs Facts
+  
+  ### Test Yourself
        
        
        
